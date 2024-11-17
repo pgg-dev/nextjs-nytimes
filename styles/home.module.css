@@ -1,0 +1,25 @@
+.container {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 34px;
+}
+
+.category {
+  border: solid 1px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
