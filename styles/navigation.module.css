@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+  border-bottom: 1px solid #cacaca;
+}
+
+.container li {
+  font-weight: 700;
+  font-size: 20px;
+}
